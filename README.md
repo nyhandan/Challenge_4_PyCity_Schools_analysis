@@ -1,4 +1,4 @@
-# Challenge 4 PyCity_Schools Analysis
+# Challenge 4: PyCity Schools Analysis
 Attempt 1 by Dan Nyhan
 
 ## Purpose
